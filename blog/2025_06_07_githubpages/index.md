@@ -20,7 +20,7 @@ Dieser Artikel beschreibt, wie GitHub Pages als einfache und effektive Lösung f
 
 ## Szenario
 
-Wir gehen davon aus, dass wir ein Anfänger sind und mit einem Computer mit einem Intel (oder AMD) Prozessor arbeiten auf dem Windows 11 installiert ist. Unser Ziel ist öffentlich eine von uns erstellte Website unter einer von Github generierten URL wie https://handtrixx.github.com/githubpages bereitzustellen.
+Wir gehen davon aus, dass wir ein Anfänger sind und mit einem Computer mit einem Intel (oder AMD) Prozessor arbeiten auf dem Windows, MacOS oder Linux installiert ist. Unser Ziel ist öffentlich eine von uns erstellte Website unter einer von Github generierten URL wie https://handtrixx.github.com/githubpages bereitzustellen.
 Das Ergebnis soll dann so aussehen:
 
 BILD
@@ -32,7 +32,7 @@ Um die Website zu erstellen, benötigst du folgende Werkzeuge:
 1. Einen Texteditor
 2. Das Tool GIT
 3. Ein GitHub-Account
-4. Eine grundlegende HTML-Datei
+4. Eine HTML-Datei
 
 Als Texteditor werden wir für unser Mini Projekt "Visual Studio Code" verwenden, da es für fast alle Betriebssysteme verfügbar ist und eine Vielzahl von Erweiterungen, wie z.B. GIT, bietet.
 
@@ -46,6 +46,8 @@ Für die Erstellung der HTML Datei werden wir das Bootstrap Framework verwenden,
 Nun kann es losgehen!
 
 ## Voraussetzungen und erste Schritte
+
+Die folgende Anleitung weicht je nach Betriebssystem und persönlicher Konfiguration leicht ab.
 
 ### Installation Visual Studio Code und Git
 
