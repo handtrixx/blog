@@ -3,7 +3,7 @@ title = 'Der beste Linux Desktop'
 slug = 'linux-desktop'
 date = 2025-06-15
 lastmod = 2025-06-15
-draft = false
+draft = true
 tags = ['Linux']
 image = 'party_calendar.png'
 summary = 'Konzerte und Veranstaltungen im Jahr 2025'
@@ -26,20 +26,40 @@ summary = 'Konzerte und Veranstaltungen im Jahr 2025'
 
 ## Fedora Linux
 
-- up-to-date
+Fedora ist eine Community-basierte Linux-Distribution, die von Red Hat unterstützt wird. Sie ist bekannt für ihren Fokus auf freie Software und die Integration neuester Technologien.
 
-OS: Fedora Linux 42 (KDE Plasma Deskt4)
-Kernel: Linux 6.14.9-300.fc42.x86_64
-Packages: 3200 (rpm), 40 (flatpak)
-DE: KDE Plasma 6.3.5
-WM: KWin (Wayland)
+### Geschichte
 
+- 2003 als Nachfolger von Red Hat Linux entstanden.
+- Red Hat sponsert das Projekt.
+- Innovation und Open Source stehen im Vordergrund.
+- Regelmäßige Releases alle 6 Monate.
+- Zielgruppe: Entwickler und Open-Source-Enthusiasten.
 
-## Fedora Linux
+### Besonderheiten
 
-- **Up-to-date**: Known for its frequent updates and bleeding-edge software.
-- **Origin**: Independent distribution.
-- **Additional Information**: Fedora is a community-driven project sponsored by Red Hat. It is known for its commitment to free and open-source software and is often used as a testing ground for new technologies.
+- Ausschließlich freie Software.
+- Immer aktuelle Softwarepakete.
+- Starke Community.
+- Verschiedene Editionen für Desktop, Server und IoT.
+
+### Technologie
+
+- OS: Fedora Linux 42 (KDE Plasma Deskt4)
+- Kernel: Linux 6.14.9-300.fc42.x86_64
+- Packages: rpm und flatpack
+- DE:KDE Plasma 6.3.5
+- WM: KWin (Wayland)
+
+### Kurz und knapper Eindruck
+
+Fedora habe ich als ersters ausprobiert, nachdem ich mich dafür entschieden habe Ubuntu nicht mehr zu nutzen. Der Installationsassistent ist sowohl für Einsteiger als auch für Profis sehr benutzerfreundlich und intuitiv. Nach der Installation erhält man ein sofort verwendbares System mit aktueller Software, Treibern und Packages. Ich hatte mich für die KDE Variante entschieden, historisch kommt Fedora aber eigentlich mit GNOME. 
+Weitere Distributionen habe ich dann nur noch aufgrund eines Problems mit meinem WiFi Treiber ausprobiert, wobei sich hier herausgestellt hat, dass das Fedora hier gar nicht das Problem war.
+
+Pro: Absolut empfehlenswert für alle, die ein modernes, stabiles und benutzerfreundliches Linux-System suchen.
+
+Kontra: Sehr häufige Updates, die für manche Nutzer störend sein können.
+
 
 ## Zorin Linux
 
