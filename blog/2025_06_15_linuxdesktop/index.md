@@ -121,3 +121,50 @@ Kontra: Sehr häufige Updates, die für manche Nutzer störend sein können.
 - **Known for its stability and reliability**: Often used in server environments.
 - **Origin**: Independent distribution.
 - **Additional Information**: Debian is known for its stability and reliability, making it a popular choice for server environments. It has a large and active community and is the basis for many other distributions, including Ubuntu.
+
+
+
+
+## Dateimanger
+
+Dolphin
+
+## Shell
+
+Nu
+
+## Terminal
+
+Yakuake
+
+## Desktop
+
+KDE
+
+## Text Editor
+
+vi
+
+## Browser
+
+Vivaldi
+
+## Coding
+
+CodeLLM
+
+## Android Apps
+
+Waydroid
+
+## Containerization Tools
+
+### Docker
+
+## Virtualisierung
+
+Boxes
+
+## Video Konvertierung
+
+Handbrake
