@@ -1,14 +1,155 @@
 +++
-title = 'Der beste Linux Desktop'
+title = 'Mein Linux Desktop'
 slug = 'linux-desktop'
 date = 2025-06-15
 lastmod = 2025-06-15
 draft = true
 tags = ['Linux']
 image = 'party_calendar.png'
-summary = 'Konzerte und Veranstaltungen im Jahr 2025'
+summary = 'Ich habe genug von MacOS und habe Windows schon lange aufgegeben! Gut das es mit Linux schon lange eine flexibelere und leistungsstärke Alternative gibt. Mein Post beschäftigt sich damit, meine private Arbeitsumgebung so aufzusetzen, dass ich eine "Rund um glücklich" Lösung für den täglichen Gebrauch und möglichst alle Anwendungszenarien habe.'
 +++
 
+Ich habe genug von MacOS und habe Windows schon lange aufgegeben. Gut das es mit Linux eine flexibelere und leistungsstärke Alternative gibt! Auf dem Server ist das so für mich schon lange gesetzt, jetzt also auch auf dem Desktop. Mein Post beschräftigt sich damit, meine private Arbeitsumgebung so aufzusetzen, dass ich eine "Rund um glücklich" Lösung für den täglichen Gebrauch und möglichst alle Anwendungszenarien habe.
+
+## Hardware: Ein Laptop muss her
+
+Einer der größten Vorteile von Linux ist, dass es auf nahezu jeder Hardware läuft.
+Ich möchte mit einem Laptop arbeiten, und da mein vorhandenes bereits über 12 Jahre alt ist, bin ich sogar bereit in ein neues zu investieren. 
+Aber welches Modell eignet sich am besten für meine Anforderungen? Angesehen habe ich mir Modelle von Apple, Lenovo, Framework, Samsung und Huawei. Dell, Acer, HP und Asus habe ich aufgrund schlechter Erfahrungen in Sachen Qualität schon von beginn an ausgeschlossen. Tuxedo und System76 gefallen mir grundsätzlich optisch nicht.
+
+Meine Anforderungen:
+- Arbeitsspeicher: Min. **32GB**, idealerweise erweiterbar
+- SSD: Min. **1TB**, idealerweise Austauschbar
+- CPU: Eigentlich egal, bitte kein Pentium Silver oder Celeron oder sowas.
+- Material: **Hochwertig**, vorzugsweise Aluminium oder Magnesium
+- Design: **Ikonisch**, schlicht, funktional und durchdacht
+- Display: Min. **12 Zoll**, Max 15 Zoll. Ein Touchscreen mit Unterstützung für Stifteingabe zum zeichnen wäre cool.
+- Kamera: egal, muss sich physisch abdecken lassen
+- Akku: Lange Laufzeit, mindestens 8 Stunden bei normaler Nutzung, idealerweise austauschbar
+- Tastatur: Hintergrundbeleuchtung, gutes Tippgefühl
+- Nachhaltigkeit: Je einfacher sich bei Bedarf oder Defekt einzelne Komponenten wechseln lassen, desto besser
+- Formfaktor: Primär Laptop, vorzugsweise aber 2-in-1 oder Convertible
+- Preis: Eigentlich wollte ich ungern über 1.000€ bezahlen...
+
+### Grobauswahl
+
+- Bei Apple kommen beide Serien, also MacBook Pro und MacBook Air, in Frage, auch wenn diese die meisten optionalen Anforderungen nicht erfüllen.
+- Framework bietet zwei interessante Modelle an, die meinen Anforderungen entsprechen sollten. Leider war das "Laptop 12" zum Testzeitpunkt noch nicht lieferbar.
+- Bei Lenovo kommt nur die ikonische ThinkPad-Serie in Frage, der Rest ist entweder "billig" oder entspricht nicht meinen Anforderungen.
+- Huawei fing mit der MateBook Serie als MacBook Konkurrenz an, und hat mittlerweile auch eine ähnliche Preisgestaltung etabliert. Hier verspricht nur das Matebook X Pro Core Ultra meine Basisanforderungen zu erfüllen.
+
+Nachdem das Feld abgesteckt war, habe ich mir dann folgende Geräte genauer angesehen:
+
+| Hersteller | Modell                       | RAM   | SSD | CPU                 | Display   | Straßenpreis   |
+|------------|------------------------------|-------|-----|---------------------|-----------|----------------|
+| Apple      | MacBook Pro 2024             | 32GB  | 1TB | M4 Pro              | 14"       | 2.427€         |
+| Apple      | MacBook Air 2025             | 32GB  | 1TB | M4 10C              | 13,6"     | 2.000€         |
+| Framework  | Laptop 13 DIY Edition        | 32GB  | 1TB | Ryzen™ AI 300 Series| 13"       | 1.453€         |
+| Lenovo     | ThinkPad L13 2-in-1 Gen 5    | 32GB  | 1TB | Ultra 5 135U vPro   | 13,3"     | 1.246€         |
+| Huawei     | Matebook X Pro Core Ultra    | 32GB  | 1TB | Ultra 7-H155        | 14,2"     | 2.099€         |
+| Samsung    | Galaxy Book5 360             | 32GB  | 1TB | Ultra 7 258V        | 15,6"     | 1.599€         |
+
+### Bewertung
+
+Und hier die Bewertungen im Vergleich zu meinen Anforderungen dazu:
+
+#### Apple
+
+Man kann sagen was man will, die Qualität der verbauten Komponenten ist bei Apple hervorragend. Auch beim Design macht Apple wie schon seit je her allen anderen sprichtwörtlich etwas vor. Bei der Prozessorachitektur geht Apple wie bekannt einen Sonderweg und erziehlt so herrausragende Leistung bei fast absoluter Laufruhe. Leider gibt es auch sehr viele negative Merkmale zu erwähnen. Nachhaltigkeit ist bei Apple kein Thema, die Hardware lässt sich so gut wie gar nicht reparieren oder aufrüsten. Auch auf Features wie einen Touchscreen muss man hier verzichten. Die Webcam lässt sich nur per Software deaktivieren und die Auswahl an installierbaren Linux Distributionen ist mehr als beschränkt. Die Tastatur ist weder wirklich gut noch schlecht.
+
+Pro:
+- Hohe Qualität der verbauten Komponenten
+- Hohe Leistung bei gleichzeitig niedriger Lautstärke
+- Edles Design
+- Tolles Display
+- Super lange Laufzeit des Akkus
+
+Kontra:
+- Hoher Preis
+- Keine Möglichkeit zur Reparatur oder Aufrüstung
+- Kein Touchscreen / Stifteingabe
+- Webcam lässt sich nicht physisch deaktivieren
+- Volles Potential nur unter MacOS
+
+Fazit:
+- Preis/Leistung: **
+- Qualität: *****
+- Nachhaltigkeit: *
+- Leistung: *****
+- Linux-tauglichkeit: ***
+- Optik: *****
+- Features: **
+
+#### Framework
+
+Das Konzept hinter den Framework Laptops ist toll und absolut nachhaltig. Nahezu alles am Laptop lässt sich austauschen und/oder aufrüsten. Als einziger getesteter Laptop kommt es mit einem AMD Prozessor, deren integrierte Grafikeinheit eine bessere Beschleunigung als die Intel-Konkurrenz bietet, dafür aber u.U. etwas schwerer (lauter) zu kühlen ist und auch nicht ganz and die Leistung der Apple Prozessoren heranreicht.
+
+Pro:
+- Fast alles austauschbar und super nachhaltig
+
+Kontra:
+- Etwas unschönes Design
+- Etwas teuer für die gebotene Leistung
+
+Fazit:
+- Preis/Leistung: ***
+- Qualität: *****
+- Nachhaltigkeit: *****
+- Leistung: ****
+- Linux-tauglichkeit: *****
+- Optik: **
+- Features: ***
+
+#### Lenovo
+
+Das erste mal dass ich ein ThinkPad gesehen habe ist nun gut 28 Jahre her. Seitdem hat sich das Design nur minimal verändert und bleibt seiner ikonischen Linie treu. Ursprünglich eine IBM Marke, kamen ThinkPads sogar schon im Weltraum zum Einsatz. Soviel zur Robustheit. Das geteste L13 2-in-1 ist ein sogenanntes Convertible, lässt sich also sowohl als klassisches Laptop als auch durch umklappen des Displays als Tablet benutzen.
+
+Pro:
+- Gute Reparierbarkeit, wird nur vom Framework Laptop geschlagen
+- Convertible / 2-in-1 mit Touchscreen
+- Kommt mit Eingabestift, der sich im Laptopgehäuse verstauen lässt.
+- Die beste Tastatur im Test, besonders für Vielschreiber ein Genuss.
+- Hochwertiger Aluminium "Deckel", Robustester Kunstoff beim Rest des Gehäuse
+- Ikonisches Design
+- Fingerabrudckscanner
+- Kamera lässt sich physisch verriegeln
+- Kann auch ohne OS bestellt werden (günstiger)
+- Günstigstes Gerät im Vergleich
+
+Kontra:
+- Minimal dicker als die Meisten der anderen getestetn Laptops.
+- Der Eingabestift ist arg zierlich, Framework macht es da besser.
+- Spiegelndes Display
+- Wird im High-Performance-Modus hörbar laut
+
+Fazit:
+- Preis/Leistung: *****
+- Qualität: *****
+- Nachhaltigkeit: ****
+- Leistung: ***
+- Linux-tauglichkeit: *****
+- Optik: ****
+- Features: *****
+
+#### Huawei
+
+Huawei waren mit ihren MateBooks eine der ersten die das Design der MacBooks weitesgehend kopiert haben. Heute stehen sie für ihre innovative Hardware und Softwarelösungen die sich am Besten unter dem Windows Betriebssystem ausspielen lässt. "Leider" hat man sich auch bein den Preisen immer mehr an Apple angepasst, bekommt dafür aber absolut hochwertige Hardware. Ebenfalls ähnlich aber noch nicht ganz so schlimm wie Apple steht es um die Nachhaltigkeit: die Hardwarekomponenten lassen sich nur schwer oder auch gar nicht austauschen.
+
+Pro:
+
+Kontra:
+
+
+### Ergebnis
+
+Letztlich habe ich mich dann auch für das L12 2-in-1 Gen5 von Lenovo entschieden und setze es nun seit einem Monat sehr zufrieden ein.
+
+**Tipp 1**: Lenovo bietet großzügige Rabatte für Geschäftskunden und prüft bei der Registrierung nicht, ob man tatsächlich ein Unternehmen ist. So konnte ich nochmal über 300€ sparen.
+
+**Tipp 2**: Wenn es nicht die neuesten Komponenten sein müssen, lohnt sich der Blick auf gebrauchte Modelle. So findet man z.B. ein ThinkPad mit nahezu identischen Spezifikationen für unter 500€. Das sollte man aber nur bei Modellen tun, bei denen sich einzelne Komponenten, wie der Akku, bei Bedarf leicht austauschen lassen.
+
+
+## Betriebssystem: Welches Linux darf es denn sein?
 
 | OS Name         | Kernel Version                 | Package Manager | Desktop Environment | Window Manager |
 |-----------------|--------------------------------|-----------------|---------------------|----------------|
