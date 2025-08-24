@@ -8,9 +8,10 @@ draft = false
 tags = ['Freizeit']
 +++
 
+
 Seit nun über einem Jahr leben wir mit dem Kasseler Bergpark direkt nebenan. In diesem Beitrag möchte ich gerne die Impressionen und Sehenswürdigkeiten, die sich im Lauf der Jahreszeiten bieten, teilen.
 
-Das im Artikel beschriebene Gebiet bezieht sich auf ein größeres Areal im äußeren Westen Kassels, welches sich, auch wenn man alle Highlights sehen möchte, gut in einem oder zwei Tagesausflügen fußläufig erkunden lässt. Eine Übersicht über das Gebiet lässt sich hier finden: Link zu OpenStreetMap.
+Das im Artikel beschriebene Gebiet bezieht sich auf ein größeres Areal im äußeren Westen Kassels, welches sich, auch wenn man alle Highlights sehen möchte, gut in einem oder zwei Tagesausflügen fußläufig erkunden lässt.
 
 Der Wikipedia Artikel zum Bergpark Wilhelmshöhe liefert Interessierten viele weitere Details, zu dem seit 2013 als UNESCO Welterbe definierten Areal. Hier möchte ich aber mehr auf die persönlichen und subjektiven Eindrücke, als auf objektive Fakten eingehen.
 
