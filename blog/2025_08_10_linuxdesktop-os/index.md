@@ -5,7 +5,7 @@ date = 2025-08-10
 lastmod = 2025-08-15
 draft = false
 tags = ['Linux']
-image = linux.webp'
+image = 'linux.webp'
 summary = 'Ich habe genug von macOS und Windows bereits vor langer Zeit aufgegeben. Zum Glück gibt es mit Linux eine flexible und leistungsstarke Alternative! Dieser Beitrag dreht sich um meine Suche nach der passenden Linux-Distribution, um meine private Arbeitsumgebung für den täglichen Gebrauch so einzurichten, dass ich eine „Rundum-glücklich-Lösung“ habe.'
 +++
 ![Linux](linux.webp)
