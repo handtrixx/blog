@@ -1,13 +1,14 @@
 +++
-title = 'Mein Linux Desktop: Hardware'
-slug = 'linux-desktop'
-date = 2025-06-15
+title = 'Mein Linux Desktop: Aber welches Linux denn?'
+slug = 'linux-desktop-os'
+date = 2025-08-10
 lastmod = 2025-08-15
 draft = true
 tags = ['Linux']
-image = 'party_calendar.png'
+image = linux.webp'
 summary = 'Ich habe genug von MacOS und habe Windows schon lange aufgegeben! Gut das es mit Linux schon lange eine flexibelere und leistungsstärke Alternative gibt. Mein Post beschäftigt sich damit, meine private Arbeitsumgebung so aufzusetzen, dass ich eine "Rund um glücklich" Lösung für den täglichen Gebrauch und möglichst alle Anwendungszenarien habe.'
 +++
+![Linux](linux.webp)
 
 Ich habe genug von MacOS und habe Windows schon lange aufgegeben. Gut das es mit Linux eine flexibelere und leistungsstärke Alternative gibt! Auf dem Server ist das so für mich schon lange gesetzt, jetzt also auch auf dem Desktop. Mein Post beschräftigt sich damit, meine private Arbeitsumgebung so aufzusetzen, dass ich eine "Rund um glücklich" Lösung für den täglichen Gebrauch und möglichst alle Anwendungszenarien habe.
 
